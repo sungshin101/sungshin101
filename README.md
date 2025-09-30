@@ -1,6 +1,8 @@
 ## Hello, I'm Sung Shin
 
-I studied mathematics at Warwick University 
+I studied mathematics at Warwick University.
+
+fasegasg
 
 
 
