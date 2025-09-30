@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I'm Sung shin
+
+
+
+
 
 <!--
 **sungshin101/sungshin101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
