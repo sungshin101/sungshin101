@@ -3,7 +3,11 @@
 I studied mathematics at Warwick University.
 
 fasegasg
+<<<<<<< HEAD
 sdfsdfdsf
+=======
+sdfds
+>>>>>>> 8610eab (Add more)
 
 
 
