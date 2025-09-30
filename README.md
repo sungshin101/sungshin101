@@ -1,4 +1,4 @@
-## Hello, I'm Sung shin
+## Hello, I'm Sung Shin
 
 
 
